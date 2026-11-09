@@ -1,0 +1,6 @@
+{
+  "name": "NurEdu PAI - Media Pembelajaran Agama Islam Interaktif",
+  "description": "Platform media pembelajaran Pendidikan Agama Islam (PAI) berbasis website dengan materi Al-Qur'an, Tajwid, Shalat, Kuis, generator ilustrasi 1K/2K/4K, dan animasi video ajar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
